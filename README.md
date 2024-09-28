@@ -45,7 +45,40 @@ Respecto al conjunto de datos:
 
 ## Planificación
 
-*
+##### Semana 1
+
+* Investigar modelos de lenguaje adecuados para la generación de texto.
+
+* Seleccionar datasets de textos en inglés de nivel inicial.
+
+##### Semana 2
+
+* Implementar técnicas de Semantic Role Labeling para etiquetar palabras en el texto según su rol semántico para obtener respuestas candidatas.
+
+* Implementar técnicas de Coreference Resolution para encontrar expresiones que refieren a la misma entidad.
+
+##### Semana 3
+
+* Implementar un modelo de generación de texto haciendo uso del preprocesamiento implementado.
+
+* Fine tuning del modelo con el conjunto de datos preprocesado.
+
+* Implementar la funcionalidad de generación de preguntas y respuestas utilizando el modelo implementado.
+
+##### Semana 4
+
+* Análisis de la performance a partir de una evaluación anecdótica o indicativa, teniendo en cuenta la coherencia y calidad de las preguntas y respuestas generadas por la herramienta.
+
+* Implementación de las tareas adicionales en caso de tener éxito la evaluación. En caso contrario, se revisará el modelo implementado.
+
+* Redacción y entrega del informe preliminar.
+
+##### Semana 5
+
+* Revisión de lo implementado en base a los comentarios recibidos en el informe de avances.
+
+* Reevaluación del modelo y discusión sobre los posibles trabajos futuros.
+
 
 ## Referencias
 

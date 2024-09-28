@@ -1,4 +1,4 @@
-# Generación de tareas para aprendizaje de inglés a partir de textos 
+# Generación de tareas de aprendizaje de inglés para estudiantes de nivel inicial
 *Antonio Mondejar y Martín Piloni*
 
 *Universidad Nacional de Córdoba, Facultad de Matemática, Astronomía, Física y Computación*
